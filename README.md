@@ -1,6 +1,6 @@
 ![PHP Composer](https://github.com/jeyroik/extas-configs-telegram-keyboard/workflows/PHP%20Composer/badge.svg?branch=master)
 ![codecov.io](https://codecov.io/gh/jeyroik/extas-configs-telegram-keyboard/coverage.svg?branch=master)
-
+<a href="https://codeclimate.com/github/jeyroik/extas-configs-telegram-keyboard/maintainability"><img src="https://api.codeclimate.com/v1/badges/27c7cbeab5f0a2b9ca4b/maintainability" /></a>
 [![Latest Stable Version](https://poser.pugx.org/jeyroik/extas-configs-telegram-keyboard/v)](//packagist.org/packages/jeyroik/extas-configs-telegram-keyboard)
 [![Total Downloads](https://poser.pugx.org/jeyroik/extas-configs-telegram-keyboard/downloads)](//packagist.org/packages/jeyroik/extas-configs-telegram-keyboard)
 [![Dependents](https://poser.pugx.org/jeyroik/extas-configs-telegram-keyboard/dependents)](//packagist.org/packages/jeyroik/extas-configs-telegram-keyboard)
